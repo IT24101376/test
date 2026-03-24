@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.se'
-version = '0.0.1-SNAPSHOT'
+version = '0.0.1-SNAPT'
 description = 'demo'
 
 java {
